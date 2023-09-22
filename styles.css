@@ -320,6 +320,8 @@ footer {
     #top {
         width: 100%;
         padding: 3rem 1rem;
+        background-image: url(./images/bg-hero-mobile.svg);
+        background-repeat: repeat-x;
     }
     #navbar .logo {
         width: 8rem;
