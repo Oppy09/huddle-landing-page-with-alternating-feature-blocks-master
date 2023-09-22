@@ -19,7 +19,7 @@ Users should be able to:
 ![](./screenshot.jpeg)
 
 ### Links
-- Solution URL: (https://https://github.com/Oppy09/huddle-landing-page-with-alternating-feature-blocks-master)
+- Solution URL: (https://github.com/Oppy09/huddle-landing-page-with-alternating-feature-blocks-master)
 - Live Site URL: (https://oppy09.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ### Built with
